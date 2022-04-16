@@ -1,0 +1,2 @@
+[15-Apr-2022 10:31:13 UTC] PHP Warning:  dir(/home/prosoft/public_html/task/wp-content/upgrade/wordpress-5.9.3-new-bundled-rFUy8w/wordpress/wp-includes/sodium_compat/src/Core32/SecretStream/): failed to open dir: No such file or directory in /home/prosoft/public_html/task/wp-admin/includes/class-wp-filesystem-direct.php on line 613
+[15-Apr-2022 10:54:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /home/prosoft/public_html/task/wp-includes/class.wp-styles.php on line 350
